@@ -15,7 +15,7 @@
 - 🔧 **Programming Languages:** C#, Python, JavaScript
 - 🌐 **Web Technologies:** ASP.NET Core, Blazor, HTML5, CSS3, REST APIs
 - 🌄 **Desktop Development:** WPF, WinForms
-- 🏆 **Database Technologies:** SQL Server, PostgreSQL, Entity Framework
+- 🏆 **Database Technologies:** SQL Server, PostgreSQL, MongoDD, Entity Framework
 - ⚡ **DevOps:** Git, Docker, CI/CD
 
 ---
