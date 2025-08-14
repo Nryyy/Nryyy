@@ -1,27 +1,27 @@
-# Welcome 👋, I'm Nazarii Soboliuk!
+# Welcome, I'm Nazarii Soboliuk!
 
 .NET Developer | Software Engineer | Tech Enthusiast
 
 ---
 
 ### About Me:
-- ✏️ Professionally working in .NET development (using C#, WPF, ASP.NET Core).
-- ⚖️ Passionate about building scalable and modern applications.
-- 🔧 Continuously improving my skillset and learning new technologies.
+- Professionally working in .NET development (using C#, WPF, ASP.NET Core).
+- Passionate about building scalable and modern applications.
+- Continuously improving my skillset and learning new technologies.
 
 ---
 
 ### My Skills:
-- 🔧 **Programming Languages:** C#, Python, JavaScript
-- 🌐 **Web Technologies:** ASP.NET Core, Blazor, HTML5, CSS3, REST APIs
-- 🌄 **Desktop Development:** WPF, WinForms
-- 🏆 **Database Technologies:** SQL Server, PostgreSQL, MongoDB, Entity Framework
-- ⚡ **DevOps:** Git, Docker, CI/CD
+- **Programming Languages:** C#, Python, JavaScript
+- **Web Technologies:** ASP.NET Core, Blazor, HTML5, CSS3, REST APIs
+- **Desktop Development:** WPF, WinForms
+- **Database Technologies:** SQL Server, PostgreSQL, MongoDB, Entity Framework
+- **DevOps:** Git, Docker, CI/CD
 
 ---
 
 ### Connect with Me:
-- 📧 Email: nazariysoboliuk@gmail.com
+- Email: nazariysoboliuk@gmail.com
 
 ---
 
@@ -32,4 +32,4 @@
 
 ---
 
-Thank you for visiting my profile! ✨
+Thank you for visiting my profile!
