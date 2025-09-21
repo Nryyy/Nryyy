@@ -12,7 +12,7 @@
 ---
 
 ### My Skills:
-- **Programming Languages:** C#, Python, JavaScript
+- **Programming Languages:** C#, JavaScript
 - **Web Technologies:** ASP.NET Core, Blazor, HTML5, CSS3, REST APIs
 - **Desktop Development:** WPF, WinForms
 - **Database Technologies:** SQL Server, PostgreSQL, MongoDB, Entity Framework
