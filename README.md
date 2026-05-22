@@ -52,10 +52,7 @@ Currently focused on:
 ---
 
 ## GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nryyy&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nryyy&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nryyy&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
